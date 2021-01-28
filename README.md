@@ -1,7 +1,7 @@
 # OpenGL_2D_game
 University project.
 
-This is a small game in which the player has to press the correct arrow keys when the buttons reach the square area at the bottom of the screen.
+This is a small game made in a couple of weeks in which the player has to press the correct arrow keys when the buttons reach the square area at the bottom of the screen. All assets had to be drawn programmaticaly.
 
 CONTROLS:
   Spacebar   - start/pause the game
